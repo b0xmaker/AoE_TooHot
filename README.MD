@@ -1,1 +1,1 @@
-![alt text](http://url/to/img.png)
+![schematic](images/schematic.png)
