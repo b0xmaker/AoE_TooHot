@@ -1,6 +1,7 @@
 A simple example board showcasing the "It's too hot!" example circuit from Chapter 1 of The Art of Electronics.
 
 Schematic:
+
 ![schematic](images/schematic.png)
 
 PCB front:
